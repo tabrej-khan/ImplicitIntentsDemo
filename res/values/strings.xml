@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ImplicitIntentsDemo</string>
+    <string name="title_text">This demo will show implicit intents.\nSystem will decide which application to launch.</string>
+    <string name="menu_settings">Settings</string>
+    <string name="open_phone_book">Open Phone Book</string>
+    <string name="open_browser">Open Browser</string>
+    <string name="make_a_call">Make a call</string>
+
+</resources>
